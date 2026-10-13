@@ -1,0 +1,10 @@
+{
+  "description": "Transform your workspace into a spaceship command deck with interactive projections displaying vital system data and customizable instrument panels.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
